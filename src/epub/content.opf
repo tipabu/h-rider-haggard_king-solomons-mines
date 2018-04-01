@@ -33,12 +33,13 @@
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2166</meta>
 		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2166</meta>
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/2166</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Allan Quatermain leads a group of adventurers into an unknown region of Africa in search for fame and glory.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;This book was published in September of 1885, becoming an immediate best seller by tapping into people’s excitement for the unknown, in this case the unexplored regions of Africa.&lt;/p&gt;
-			&lt;p&gt;Haggard wrote the novel in a very short period, between six and sixteen months, on a wager with his brother for trying to match Robert Louis Stevenson’s Treasure Island, and in the process creating a new literary genre known as “Lost World”. This will later influence other writers such as Arthur Conan Doyle and H.P. Lovecraft.&lt;/p&gt;
+			&lt;p&gt;Haggard wrote the novel in a very short period, between six and sixteen months, on a wager with his brother for trying to match Robert Louis Stevenson’s Treasure Island, and in the process creating a new literary genre known as “Lost World.” This will later influence other writers such as Arthur Conan Doyle and H.P. Lovecraft.&lt;/p&gt;
 			&lt;p&gt;The book narrates the tell of Allan Quatermain, an adventurer and white hunter, who is approached by Sir Henry Curtis and Captain Good to help them find Curtis’ lost brother; who went missing by trying to find the fabled King Solomon’s Mines.&lt;/p&gt;
 			&lt;p&gt;This book has spawned multiple adaptations in the form of at least six movies, comics and TV shows.&lt;/p&gt;
 		</meta>
@@ -56,10 +57,12 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_Rider_Haggard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80010495</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Henri Rousseau</dc:contributor>
 		<meta property="file-as" refines="#artist">Rousseau, Henri</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Henri_Rousseau</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79126804.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79126804</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Bickers</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bickers, John</meta>
