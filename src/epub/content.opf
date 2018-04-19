@@ -35,11 +35,11 @@
 		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/2166</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Allan Quatermain leads a group of adventurers into an unknown region of Africa in search for fame and glory.</dc:description>
+		<dc:description id="description">Allan Quatermain leads a group of adventurers into an unknown region of Africa in a search for fame and glory.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;This book was published in September of 1885, becoming an immediate best seller by tapping into people’s excitement for the unknown, in this case the unexplored regions of Africa.&lt;/p&gt;
-			&lt;p&gt;Haggard wrote the novel in a very short period, between six and sixteen months, on a wager with his brother for trying to match Robert Louis Stevenson’s Treasure Island, and in the process creating a new literary genre known as “Lost World.” This will later influence other writers such as Arthur Conan Doyle and H.P. Lovecraft.&lt;/p&gt;
+			&lt;p&gt;Haggard wrote the novel in a very short period, between six and sixteen months, on a bet with his brother for trying to match Robert Louis Stevenson’s Treasure Island, and in the process creating a new literary genre known as “Lost World.” This will later influence other writers such as Arthur Conan Doyle and H.P. Lovecraft.&lt;/p&gt;
 			&lt;p&gt;The book narrates the tell of Allan Quatermain, an adventurer and white hunter, who is approached by Sir Henry Curtis and Captain Good to help them find Curtis’ lost brother; who went missing by trying to find the fabled King Solomon’s Mines.&lt;/p&gt;
 			&lt;p&gt;This book has spawned multiple adaptations in the form of at least six movies, comics and TV shows.&lt;/p&gt;
 		</meta>
@@ -52,7 +52,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/King_Solomon%27s_Mines</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-rider-haggard_king-solomons-mines</meta>
 		<dc:creator id="author">H. Rider Haggard</dc:creator>
-		<meta property="file-as" refines="#author">Haggard, Herny Rider</meta>
+		<meta property="file-as" refines="#author">Haggard, H. Rider</meta>
 		<meta property="se:name.person.full-name" refines="#author">Herny Rider Haggard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_Rider_Haggard</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80010495</meta>

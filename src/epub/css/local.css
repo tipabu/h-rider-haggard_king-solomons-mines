@@ -28,22 +28,25 @@ blockquote .signature{
 	margin-top: 0;
 }
 
-[epub|type~="z3998:verse"] p,
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p > span,
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-[epub|type~="z3998:verse"] p > span + br,
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
+}
+
+#endnotes [epub|type~="z3998:verse"] span,
+#endnotes [epub|type~="z3998:poem"] span{
+	text-indent: 0;
+	padding-left: 0;
 }
 
 section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
@@ -66,4 +69,26 @@ figure img{
 	max-width: 100%;
 	margin: auto;
 	display: block;
+}
+
+footer{
+	text-align: right;
+	margin-top: 1em;
+}
+
+[epub|type~="se:letter.dateline"] + p{
+	text-indent: 0;
+}
+
+[epub|type~="se:letter.dateline"]{
+	text-align: right;
+}
+
+[epub|type~="z3998:salutation"],
+.signature{
+	font-variant: small-caps;
+}
+
+#dedication > p{
+	text-align: center;
 }
