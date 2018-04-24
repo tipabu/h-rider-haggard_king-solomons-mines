@@ -15,44 +15,27 @@ footer{
 	margin-top: 1em;
 }
 
-.signature{
-	font-variant: small-caps;
-}
-
-#epigraph article{
-	page-break-after: always;
-}
-
 blockquote .signature{
 	text-align: right;
 	margin-top: 0;
 }
 
+[epub|type~="z3998:verse"] p,
 [epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
 }
 
+[epub|type~="z3998:verse"] p > span,
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
+[epub|type~="z3998:verse"] p > span + br,
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
-}
-
-#endnotes [epub|type~="z3998:verse"] span,
-#endnotes [epub|type~="z3998:poem"] span{
-	text-indent: 0;
-	padding-left: 0;
-}
-
-section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
-	display: block;
-	font-size: .75em;
-	font-weight: normal;
 }
 
 span[epub|type~="subtitle"]{
