@@ -15,9 +15,14 @@ footer{
 	margin-top: 1em;
 }
 
-blockquote .signature{
-	text-align: right;
-	margin-top: 0;
+.signature{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:postscript"]{
+	margin: 1em 0;
+	text-align: left;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:verse"] p,
