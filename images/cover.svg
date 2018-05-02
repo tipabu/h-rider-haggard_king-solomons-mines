@@ -17,21 +17,13 @@
 			font-size: 93.56725311px;
 		}
 
-		.title-small{
-			font-size: 70.17543793px;
-		}
-
-		.title-xsmall{
-			font-size: 58.47953033px;
-		}
-
 		.author{
 			font-size: 46.7840004px;
 		}
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1775">KING SOLOMON’S</text>
-	<text class="title" x="700" y="1875">MINES</text>
+	<text class="title" x="700" y="1775">KING</text>
+	<text class="title" x="700" y="1875">SOLOMON’S MINES</text>
 	<text class="author" x="700" y="1975">H. RIDER HAGGARD</text>
 </svg>

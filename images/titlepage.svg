@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 340">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
 	<title>The titlepage for the Standard Ebooks edition of King Solomon’s Mines, by H. Rider Haggard</title>
 	<style type="text/css">
 		text{
@@ -16,7 +16,7 @@
 			font-size: 70.17543793px;
 		}
 	</style>
-	<text class="title" x="700" y="130">KING SOLOMON’S</text>
-	<text class="title" x="700" y="230">MINES</text>
-	<text class="author" x="700" y="290">H. RIDER HAGGARD</text>
+	<text class="title" x="700" y="130">KING</text>
+	<text class="title" x="700" y="230">SOLOMON’S MINES</text>
+	<text class="author" x="700" y="390">H. RIDER HAGGARD</text>
 </svg>
