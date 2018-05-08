@@ -77,6 +77,10 @@ footer{
 	font-variant: small-caps;
 }
 
-#dedication > p{
+[epub|type~="dedication"] p{
+	margin: auto;
+	margin-top: 3em;
 	text-align: center;
+	text-indent: 0;
+	max-width: 75%;
 }
