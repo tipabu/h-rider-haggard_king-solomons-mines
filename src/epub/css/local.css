@@ -10,6 +10,10 @@ b{
 	font-variant: small-caps;
 }
 
+ul{
+	list-style: none;
+}
+
 footer{
 	text-align: right;
 	margin-top: 1em;
@@ -62,6 +66,11 @@ figure img{
 footer{
 	text-align: right;
 	margin-top: 1em;
+}
+
+[epub|type~="z3998:diary-entry"]{
+	margin: 1em 0;
+	text-indent: 0;
 }
 
 [epub|type~="se:letter.dateline"] + p{
