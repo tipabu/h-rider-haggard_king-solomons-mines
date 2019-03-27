@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">King Solomon's Mines</dc:title>
-		<meta property="file-as" refines="#title">King Solomon's Mines</meta>
+		<dc:title id="title">King Solomon’s Mines</dc:title>
+		<meta property="file-as" refines="#title">King Solomon’s Mines</meta>
 		<dc:subject id="subject-1">Africa -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Missing persons -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Adventure stories</dc:subject>
