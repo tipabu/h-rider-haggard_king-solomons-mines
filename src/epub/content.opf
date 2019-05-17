@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">King Solomon’s Mines</dc:title>
 		<meta property="file-as" refines="#title">King Solomon’s Mines</meta>
 		<dc:subject id="subject-1">Africa -- Fiction</dc:subject>
@@ -36,24 +36,29 @@
 		<dc:subject id="subject-5">Hunting guides -- Fiction</dc:subject>
 		<dc:subject id="subject-6">Diamond mines and mining -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Quatermain, Allan (Fictitious character) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2166</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2166</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2166</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2166</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2166</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2166</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/2166</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2007101346</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008107165</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85001072</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh2008112903</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008122139</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2009123320</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008110305</meta>
 		<meta property="se:subject">Adventure</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Allan Quatermain leads a group of adventurers into an unknown region of Africa in a search for fame and glory.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;King Solomon’s Mines&lt;/i&gt; was published in September 1885, becoming an immediate best seller by tapping into people’s excitement for the unknown: in this case, the unexplored regions of Africa.&lt;/p&gt;
 			&lt;p&gt;Haggard wrote the novel in a very short period, between six and sixteen months, on a bet with his brother to try to match Robert Louis Stevenson’s &lt;i&gt;Treasure Island&lt;/i&gt;. In the process he created a new literary genre known as the “Lost World” genre, which would later influence other writers like Arthur Conan Doyle and H. P. Lovecraft.&lt;/p&gt;
 			&lt;p&gt;The book tells the tale of Allan Quatermain, an adventurer and hunter, who is approached by Sir Henry Curtis and Captain Good to help them find Curtis’ lost brother, who went missing while trying to find the fabled King Solomon’s Mines.&lt;/p&gt;
 			&lt;p&gt;This book has spawned multiple adaptations in the form of movies, comics, and TV shows.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2166</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000245273</dc:source>
