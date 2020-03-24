@@ -54,11 +54,6 @@ figure img{
 	display: block;
 }
 
-footer{
-	text-align: right;
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:diary-entry"]{
 	margin: 1em 0;
 	text-indent: 0;
