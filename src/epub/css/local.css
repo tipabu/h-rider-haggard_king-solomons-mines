@@ -38,11 +38,6 @@ footer{
 	display: none;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 figure{
 	margin: 1em auto;
 	text-align: center;
