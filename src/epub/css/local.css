@@ -5,9 +5,14 @@ ul{
 	list-style: none;
 }
 
+header{
+	font-weight: bold;
+	margin-bottom: 1em;
+}
+
 footer{
-	text-align: right;
 	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:signature"]{
