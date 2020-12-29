@@ -21,13 +21,13 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin: 1em 0;
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
 [epub|type~="z3998:verse"] p,
 [epub|type~="z3998:poem"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
