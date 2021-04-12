@@ -44,14 +44,15 @@ footer{
 }
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
 }
 
 figure img{
-	max-width: 100%;
-	margin: auto;
 	display: block;
+	margin: auto;
+	max-width: 100%;
 }
 
 [epub|type~="z3998:diary-entry"]{
